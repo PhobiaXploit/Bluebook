@@ -1,0 +1,3 @@
+chmod +x Bluebook.py
+python Bluebook.py 
+python Bluebook.py 127.0.0.1 80 200000
